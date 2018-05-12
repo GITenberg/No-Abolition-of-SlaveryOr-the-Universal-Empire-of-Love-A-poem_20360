@@ -1,0 +1,29 @@
+_repo: No-Abolition-of-SlaveryOr-the-Universal-Empire-of-Love-A-poem_20360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+description: ''
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Slavery -- Poetry -- Early works to 1800'
+title: 'No Abolition of Slavery
+
+  Or the Universal Empire of Love, A poem'
+url: http://www.gutenberg.org/ebooks/20360
