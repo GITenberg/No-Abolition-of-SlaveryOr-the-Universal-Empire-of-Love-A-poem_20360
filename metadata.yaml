@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/659
     wikipedia: http://en.wikipedia.org/wiki/James_Boswell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20360#No-Abolition-of-SlaveryOr-the-Universal-Empire-of-Love-A-poem
 gutenberg_issued: '2007-01-15'
 gutenberg_type: Text
 identifiers:
